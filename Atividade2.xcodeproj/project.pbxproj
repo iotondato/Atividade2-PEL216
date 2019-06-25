@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6F8618A922B9971A00005879 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8618A822B9971A00005879 /* main.swift */; };
+		6F0A4F4122C1A0A6003D0174 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F0A4F4022C1A0A6003D0174 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6F0A4F4022C1A0A6003D0174 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = main.swift; path = Atividade2/main.swift; sourceTree = "<group>"; };
 		6F8618A522B9971A00005879 /* proto_Atividade2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = proto_Atividade2; sourceTree = BUILT_PRODUCTS_DIR; };
-		6F8618A822B9971A00005879 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +41,7 @@
 		6F86189C22B9971A00005879 = {
 			isa = PBXGroup;
 			children = (
-				6F8618A722B9971A00005879 /* proto_Atividade2 */,
+				6F0A4F4022C1A0A6003D0174 /* main.swift */,
 				6F8618A622B9971A00005879 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +52,6 @@
 				6F8618A522B9971A00005879 /* proto_Atividade2 */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		6F8618A722B9971A00005879 /* proto_Atividade2 */ = {
-			isa = PBXGroup;
-			children = (
-				6F8618A822B9971A00005879 /* main.swift */,
-			);
-			path = proto_Atividade2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -97,7 +89,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6F8618A022B9971A00005879 /* Build configuration list for PBXProject "proto_Atividade2" */;
+			buildConfigurationList = 6F8618A022B9971A00005879 /* Build configuration list for PBXProject "Atividade2" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -119,7 +111,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F8618A922B9971A00005879 /* main.swift in Sources */,
+				6F0A4F4122C1A0A6003D0174 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,7 +256,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6F8618A022B9971A00005879 /* Build configuration list for PBXProject "proto_Atividade2" */ = {
+		6F8618A022B9971A00005879 /* Build configuration list for PBXProject "Atividade2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F8618AA22B9971A00005879 /* Debug */,
