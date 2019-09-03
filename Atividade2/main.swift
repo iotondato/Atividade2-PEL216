@@ -218,32 +218,3 @@ for _ in 1...5{
 }
 
 
-//myQueue.remove(value: "Brenno")
-//myQueue.Top()
-//print()
-//
-//myQueue.remove(value: "Brenno")
-//myQueue.Top()
-//print()
-//
-//myQueue.remove(value: "Brenno")
-//myQueue.Top()
-//print()
-
-//myQueue.remove(value: "Brenno")
-//myQueue.remove(value: "Brenno")
-//myQueue.remove(value: "Brenno")
-//myQueue.remove(value: "Brenno")
-
-
-//
-//print("========== List Tests ==========")
-//for i in names{
-//   myList.insert(value: i)
-//}
-//
-//myList.printAllKeys()
-//
-//
-
-//myList.printAllKeys()
